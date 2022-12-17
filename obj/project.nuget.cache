@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c/lRYZmQUQFJjd+EmBRt8sfCouxBB9AhCPunxS/ogPv2P0HeJx+N5rP5vygKiqHNRBm/uEqVMqISbqmVu/Dyog==",
+  "dgSpecHash": "82K1w6k1hgs2QwTg+kvHfTLpdTzr/0K6VSntwI8gTQwCuQd+QfKmSaTQDjqcqx1gM84BuG0u/3dt/czse0cbmQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kiber\\source\\repos\\Calculator1\\Calculator1.csproj",
+  "projectFilePath": "C:\\Calc1\\Calculator1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -21,21 +21,21 @@
             <ColumnDefinition></ColumnDefinition>
         </Grid.ColumnDefinitions>
         <TextBlock x:Name="textBlock" Grid.Column="0" HorizontalAlignment="Left" TextWrapping="Wrap" Text=""  VerticalAlignment="Center" Height="150" Grid.ColumnSpan="4" Width="400" FontSize="50" />
-        <Button Grid.Column="0" Grid.Row="1" Content="7" Click="Button7_Click" FontSize="50"  />
-        <Button Grid.Column="0" Grid.Row="2" Content="4" Click="Button4_Click" FontSize="50"  />
-        <Button Grid.Column="0" Grid.Row="3" Content="1" Click="Button1_Click" FontSize="50"  />
-        <Button Grid.Column="0" Grid.Row="4" Content="0" Click="Button0_Click" FontSize="50"  />
-        <Button Grid.Column="1" Grid.Row="1" Content="8" Click="Button8_Click" FontSize="50"  />
-        <Button Grid.Column="1" Grid.Row="2" Content="5" Click="Button5_Click" FontSize="50"  />
-        <Button Grid.Column="1" Grid.Row="3" Content="2" Click="Button2_Click" FontSize="50"  />
-        <Button Grid.Column="1" Grid.Row="4" Content="=" Click="ButtonEqual_Click" FontSize="50"  />
-        <Button Grid.Column="2" Grid.Row="1" Content="9" Click="Button9_Click" FontSize="50"  />
-        <Button Grid.Column="2" Grid.Row="2" Content="6" Click="Button6_Click" FontSize="50"  />
-        <Button Grid.Column="2" Grid.Row="3" Content="3" Click="Button3_Click" FontSize="50"  />
-        <Button Grid.Column="2" Grid.Row="4" Content="+" Click="Button_plus_Click" FontSize="50"  />
-        <Button Grid.Column="3" Grid.Row="1" Content="C" Click="ButtonC_Click" FontSize="50"  />
-        <Button Grid.Column="3" Grid.Row="2" Content="/" Click="Button_d_Click" FontSize="50"  />
-        <Button Grid.Column="3" Grid.Row="3" Content="*" Click="Button_multiply_Click" FontSize="50"  />
-        <Button Grid.Column="3" Grid.Row="4" Content="-" Click="Button_minus_Click" FontSize="50"  />
+        <Button Grid.Column="0" Grid.Row="1" Content="7" Click="Button7Click" FontSize="50"  />
+        <Button Grid.Column="0" Grid.Row="2" Content="4" Click="Button4Click" FontSize="50"  />
+        <Button Grid.Column="0" Grid.Row="3" Content="1" Click="Button1Click" FontSize="50"  />
+        <Button Grid.Column="0" Grid.Row="4" Content="0" Click="Button0Click" FontSize="50"  />
+        <Button Grid.Column="1" Grid.Row="1" Content="8" Click="Button8Click" FontSize="50"  />
+        <Button Grid.Column="1" Grid.Row="2" Content="5" Click="Button5Click" FontSize="50"  />
+        <Button Grid.Column="1" Grid.Row="3" Content="2" Click="Button2Click" FontSize="50"  />
+        <Button Grid.Column="1" Grid.Row="4" Content="=" Click="ButtonEqualClick" FontSize="50"  />
+        <Button Grid.Column="2" Grid.Row="1" Content="9" Click="Button9Click" FontSize="50"  />
+        <Button Grid.Column="2" Grid.Row="2" Content="6" Click="Button6Click" FontSize="50"  />
+        <Button Grid.Column="2" Grid.Row="3" Content="3" Click="Button3Click" FontSize="50"  />
+        <Button Grid.Column="2" Grid.Row="4" Content="+" Click="ButtonPlusClick" FontSize="50"  />
+        <Button Grid.Column="3" Grid.Row="1" Content="C" Click="ButtonCClick" FontSize="50"  />
+        <Button Grid.Column="3" Grid.Row="2" Content="/" Click="ButtonDivClick" FontSize="50"  />
+        <Button Grid.Column="3" Grid.Row="3" Content="*" Click="ButtonMultiplyClick" FontSize="50"  />
+        <Button Grid.Column="3" Grid.Row="4" Content="-" Click="ButtonMinusClick" FontSize="50"  />
     </Grid>
 </Window>

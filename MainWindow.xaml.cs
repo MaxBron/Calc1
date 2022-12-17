@@ -40,77 +40,77 @@ namespace Calculator1
             }
         }
 
-        private void Button1_Click(object sender, RoutedEventArgs e)
+        private void Button1Click(object sender, RoutedEventArgs e)
         {
             textBlock.Text += "1";
         }
 
-        private void Button2_Click(object sender, RoutedEventArgs e)
+        private void Button2Click(object sender, RoutedEventArgs e)
         {
             textBlock.Text += "2";
         }
 
-        private void Button3_Click(object sender, RoutedEventArgs e)
+        private void Button3Click(object sender, RoutedEventArgs e)
         {
             textBlock.Text += "3";
         }
 
-        private void Button4_Click(object sender, RoutedEventArgs e)
+        private void Button4Click(object sender, RoutedEventArgs e)
         {
             textBlock.Text += "4";
         }
 
-        private void Button5_Click(object sender, RoutedEventArgs e)
+        private void Button5Click(object sender, RoutedEventArgs e)
         {
             textBlock.Text += "5";
         }
 
-        private void Button6_Click(object sender, RoutedEventArgs e)
+        private void Button6Click(object sender, RoutedEventArgs e)
         {
             textBlock.Text += "6";
         }
 
-        private void Button7_Click(object sender, RoutedEventArgs e)
+        private void Button7Click(object sender, RoutedEventArgs e)
         {
             textBlock.Text += "7";
         }
 
-        private void Button8_Click(object sender, RoutedEventArgs e)
+        private void Button8Click(object sender, RoutedEventArgs e)
         {
             textBlock.Text += "8";
         }
 
-        private void Button9_Click(object sender, RoutedEventArgs e)
+        private void Button9Click(object sender, RoutedEventArgs e)
         {
             textBlock.Text += "9";
         }
 
-        private void Button0_Click(object sender, RoutedEventArgs e)
+        private void Button0Click(object sender, RoutedEventArgs e)
         {
             textBlock.Text += "0";
         }
 
-        private void Button_plus_Click(object sender, RoutedEventArgs e)
+        private void ButtonPlusClick(object sender, RoutedEventArgs e)
         {
             ButtonCheck('+');
         }
 
-        private void Button_minus_Click(object sender, RoutedEventArgs e)
+        private void ButtonMinusClick(object sender, RoutedEventArgs e)
         {
             ButtonCheck('-');
         }
 
-        private void Button_multiply_Click(object sender, RoutedEventArgs e)
+        private void ButtonMultiplyClick(object sender, RoutedEventArgs e)
         {
             ButtonCheck('*');
         }
 
-        private void Button_d_Click(object sender, RoutedEventArgs e)
+        private void ButtonDivClick(object sender, RoutedEventArgs e)
         {
             ButtonCheck('/');
         }
 
-        private void ButtonEqual_Click(object sender, RoutedEventArgs e)
+        private void ButtonEqualClick(object sender, RoutedEventArgs e)
         {
 
             if (textBlock.Text.Contains('='))
@@ -132,7 +132,7 @@ namespace Calculator1
             }
         }
 
-        private void ButtonC_Click(object sender, RoutedEventArgs e)
+        private void ButtonCClick(object sender, RoutedEventArgs e)
         {
             textBlock.Text = "";
         }

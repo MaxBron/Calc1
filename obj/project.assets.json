@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kiber\\source\\repos\\Calculator1\\Calculator1.csproj",
+      "projectUniqueName": "C:\\Calc1\\Calculator1.csproj",
       "projectName": "Calculator1",
-      "projectPath": "C:\\Users\\kiber\\source\\repos\\Calculator1\\Calculator1.csproj",
+      "projectPath": "C:\\Calc1\\Calculator1.csproj",
       "packagesPath": "C:\\Users\\kiber\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kiber\\source\\repos\\Calculator1\\obj\\",
+      "outputPath": "C:\\Calc1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kiber\\AppData\\Roaming\\NuGet\\NuGet.Config",

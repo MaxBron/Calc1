@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\kiber\source\repos\Calculator1\obj\Debug\net6.0-windows\
+C:\Calc1\obj\Debug\net6.0-windows\
 Calculator1
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\kiber\source\repos\Calculator1\App.xaml
+C:\Calc1\App.xaml
 11407045341
 
 5-236956011
 194618410957
 MainWindow.xaml;
 
-True
+False
 
